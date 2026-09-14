@@ -49,7 +49,7 @@ window.CONFIG = {
     whatsapp: true,
     localizacao: true,
     presentes: true,
-    dresscode: true,
+    dresscode: false,
     manual: true,
     contagem: false
   },
@@ -90,7 +90,6 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:true, posicao: {"left":70.61532922324281,"top":2.0119701993572097,"width":23.51117898861821,"height":7.339699057703945} },
-    dresscode: { mostrarTexto:true, posicao: {"left":71.99393283246805,"top":2.3055244541405386,"width":23.680533022164536,"height":7.956277907319452} },
     manual: { mostrarTexto:true, posicao: {"left":72.60734200279552,"top":1.6150752355740252,"width":22.24919815794729,"height":7.495969282951939} }
   },
 
@@ -103,7 +102,6 @@ window.CONFIG = {
         confirm: { left:18.702091590256323, top:69.0966360103316, width:14.940671482667732, height:11.1040285221705 },
         map: { left:42.3313764835857, top:69.44183736642725, width:15.611963461541478, height:10.82448540804778 },
         gift: { left:64.82485709053529, top:69.43103802258403, width:15.477604582667729, height:11.290207971041042 },
-        dress: { left:29.853047623801917, top:82.7797170618633, width:15.886575229632586, height:11.52034966267883 },
         manual: { left:53.57885070075895, top:82.89479888206999, width:15.88655962959265, height:11.17512615083435 }
   },
 
