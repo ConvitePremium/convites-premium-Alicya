@@ -90,7 +90,7 @@ window.CONFIG = {
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
     presentes: { mostrarTexto:true, posicao: {"left":70.61532922324281,"top":2.0119701993572097,"width":23.51117898861821,"height":7.339699057703945} },
-    manual: { mostrarTexto:true, posicao: {"left":72.60734200279552,"top":1.6150752355740252,"width":22.24919815794729,"height":7.495969282951939} }
+    manual: { mostrarTexto:true, posicao: {"left":72.60734200279552,"top":1.6150752355740252,"width":22.24919815794729,"height":7.495969282951939} },
   },
 
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
@@ -99,10 +99,10 @@ window.CONFIG = {
   //   left/top: canto superior esquerdo do botão
   //   width/height: tamanho do botão
     hotspots: {
-        confirm: { left:18.702091590256323, top:69.0966360103316, width:14.940671482667732, height:11.1040285221705 },
-        map: { left:42.3313764835857, top:69.44183736642725, width:15.611963461541478, height:10.82448540804778 },
-        gift: { left:64.82485709053529, top:69.43103802258403, width:15.477604582667729, height:11.290207971041042 },
-        manual: { left:53.57885070075895, top:82.89479888206999, width:15.88655962959265, height:11.17512615083435 }
+        confirm: { left:25.858641111023093, top:64.72378583802933, width:19.439083398602236, height:11.449247644259863 },
+        map: { left:54.80420121401701, top:65.06899597363521, width:19.29248088366608, height:11.514932431736742 },
+        gift: { left:27.406320499081616, top:80.70837160104129, width:18.340227510982423, height:10.829907028744987 },
+        manual: { left:53.374380977316456, top:80.59330295009995, width:18.95365228134984, height:11.405272232227258 }
   },
 
   // ----- CONTAGEM REGRESSIVA ---------------------------------------------
